@@ -1,0 +1,66 @@
+/* rgba(69, 104, 220, 1);
+rgba(176, 106, 179, 1);
+rgba(239, 142, 72, 1);
+#f9f7f6;
+rgba(255, 210, 5, 1);
+rgba(0, 0, 0, 1); */
+
+
+.first-field {
+  float:left;
+  height: 603px;
+  width: 320px;
+  border-radius: 0rem;
+  background: linear-gradient(180deg, rgba(69, 104, 220, 1) 0%, rgba(176, 106, 179, 1) 100%), rgba(239, 142, 72, 1);
+  z-index: 2;
+  margin-left:15%;
+}
+.first-field__area {
+  margin: 10%;
+
+}
+
+.main-field {
+}
+.main-field__text {
+    
+}
+.main-field__description {
+  
+}
+.main-field__numberpanel {
+  
+}
+
+.extra_field {
+  margin-top: 10%;
+}
+
+.game_number {
+  background: #ffffff;
+  border: 1px solid #DDDDDD;
+  width: 30px;
+  height: 35px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 2%;
+  display: inline-block;
+  margin-bottom: 3%;
+  text-align: center;
+}
+.extra_field__numberpanel{
+  margin-bottom: 20%;
+}
+.selected {
+  background: #FFD205
+}
+.btn--main {
+  margin-left: 15%;
+  padding: 3%;
+  opacity: 0.6;
+  /* basic/black */
+
+  border: 1px solid #fff;
+  border-radius: 40px;
+}
+
